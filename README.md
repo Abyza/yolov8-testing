@@ -1,0 +1,1 @@
+This is just my own testing of YOLOV8. It is by ultralytics [docs.ultralytics.com](https://docs.ultralytics.com/). I modified it to work in my virtual environment in python that is local in VS code in jupyter. 
